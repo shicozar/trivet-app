@@ -1,0 +1,107 @@
+.about {
+    padding: 100px 0;
+    background-color: #ffffff;
+}
+
+.about img {
+    border-radius: 15px;
+}
+
+
+
+/* //Updates */
+.about-hero {
+    background-color: #f8f9fa;
+    /* Light gray background for simplicity */
+    padding: 80px 0;
+    color: #333;
+    /* Darker gray text */
+    text-align: center;
+    margin-bottom: 50px;
+    /* Create space between sections */
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.light-bg {
+    background-color: #f8f9fa;
+    /* Soft light gray background */
+    color: #333;
+}
+
+.white-bg {
+    background-color: #fff;
+    /* Clean white background */
+    color: #333;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin-bottom: 20px;
+    color: #333;
+    /* Darker text for readability */
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin: 10px 0;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    /* Simple blue button */
+    border-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    /* Slightly darker on hover */
+    border-color: #0056b3;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.lead {
+    font-size: 20px;
+    color: #666;
+    /* Slightly muted gray for subtler emphasis */
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}

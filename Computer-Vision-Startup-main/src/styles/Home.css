@@ -1,0 +1,33 @@
+.home {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+    /* margin: 0; */
+}
+
+.home img {
+    border-radius: 15px;
+}
+
+.blockquote-footer {
+    margin-top: 10px;
+    /* Adjust this value based on how much space you want */
+    font-size: 0.9rem;
+    /* Optional: If you want to make the footer text a little smaller */
+    color: #6c757d;
+    /* Optional: For lighter gray text */
+}
+
+/* CSS for ensuring the images are of the same size */
+/* Ensure all images have the same size */
+.service-image {
+    width: 300px;
+    /* Set a fixed width */
+    height: 200px;
+    /* Set a fixed height */
+    object-fit: cover;
+    /* Crop and maintain aspect ratio */
+    display: block;
+    /* Ensure the image is displayed as a block */
+    margin: 0 auto;
+    /* Center the image horizontally */
+}
